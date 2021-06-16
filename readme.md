@@ -1,3 +1,3 @@
 ﻿#Git GitHub example branches
 
-New files
+Added new file
